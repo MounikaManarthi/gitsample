@@ -10,16 +10,16 @@ System.out.println("hello");
 }
 
 @Test
-<<<<<<< HEAD
+
 public void chenged()
 {
 System.out.println("changed things");	
-=======
-public void newly()
-{
-System.out.println("new changes made");	
 }
 
->>>>>>> branch 'master' of https://github.com/MounikaManarthi/gitsample.git
-}
-}
+@Test
+
+public void modify()
+{
+System.out.println("modified  things");	
+}}
+
