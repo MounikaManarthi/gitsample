@@ -8,4 +8,10 @@ public void update()
 {
 System.out.println("hello");	
 }
+
+@Test
+public void chenged()
+{
+System.out.println("changed things");	
+}
 }
