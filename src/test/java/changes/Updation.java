@@ -8,4 +8,11 @@ public void update()
 {
 System.out.println("hello");	
 }
+
+@Test
+public void newly()
+{
+System.out.println("new changes made");	
+}
+
 }
